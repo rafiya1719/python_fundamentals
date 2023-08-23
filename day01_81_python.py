@@ -7,8 +7,6 @@
 "hello all welcome to my python world"
 
 
-# In[ ]:
-
 
 
 
